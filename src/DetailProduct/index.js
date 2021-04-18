@@ -7,7 +7,7 @@ import ingredient from "../assets/images/ayurvedic-ingredients.svg";
 import Footer from "../Homepage/Footer";
 import ProductData from "../Products/ProductData.json";
 import axios from "axios";
-
+import CallIcon from "../assets/images/call-icon.png";
 const API_PATH = "contactform/contactform.php";
 
 class DetailProduct extends React.Component {
@@ -198,8 +198,18 @@ class DetailProduct extends React.Component {
                 <h3>{this.state.product.headline}</h3>
                 <h4>₹ {this.state.product.detail.price}</h4>
                 {/* here will be contact form */}
+                <div>
+                  <h4>To Buy / खरीदने के लिए</h4>
+                  <p className="benefit" style={{ background: "#f2f7ff" }}>
+                    Call us at :
+                    <div className="footer-details">
+                      <img src={CallIcon} alt="Mobile" />
+                      <a href="tel:+918929987739">+91 89299 87739</a>
+                    </div>
+                  </p>
+                </div>
 
-                {!this.state.mailSent && (
+                {/*                 {!this.state.mailSent && (
                   <div className="buy-product">
                     <h4>To Buy / खरीदने के लिए</h4>
                     <form onSubmit={(event) => this.handleSubmit(event)}>
@@ -251,7 +261,7 @@ class DetailProduct extends React.Component {
                       करेंगे।
                     </p>
                   </div>
-                )}
+                )} */}
 
                 {description != null ? (
                   <div>
