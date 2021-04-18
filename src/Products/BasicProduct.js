@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "@reach/router";
 import "./basicProduct.css";
 
-const BasicProduct = props => {
+const BasicProduct = (props) => {
   let descriptionArray = props.description.split(";");
   return (
     <Link
@@ -11,7 +11,7 @@ const BasicProduct = props => {
     >
       <div className="basic-product">
         <img
-          src={`https://srasmedicines.com/product/${props.images[0].image}`}
+          src={`https://srasmedicines.com/assets/images/product/${props.images[0].image}`}
           alt={props.images[0].caption}
         />
         {descriptionArray.length > 0 ? <p>{descriptionArray[0]}</p> : null}
@@ -22,7 +22,7 @@ const BasicProduct = props => {
             style={{
               fontWeight: "400",
               color: "#838383",
-              fontSize: ".8em"
+              fontSize: ".8em",
             }}
           >
             inc tax
