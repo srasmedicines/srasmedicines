@@ -49,7 +49,7 @@ class DetailProduct extends React.Component {
   };
 
   shareHandler = () => {
-    let url = `https://srasmedicines.com/assets/images/product/${this.props.id}`;
+    let url = `https://srasmedicines.com/product/${this.props.id}`;
     let title = this.state.product.title;
     if (navigator.share) {
       navigator.share({
