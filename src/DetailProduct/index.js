@@ -37,7 +37,7 @@ class DetailProduct extends React.Component {
     });
     setTimeout(() => {
       this.setState({
-        currentImage: `https://srasmedicines.com/product/${this.state.product.images[0].image}`,
+        currentImage: `https://srasmedicines.com/assets/images/product/${this.state.product.images[0].image}`,
       });
     }, 100);
   }
@@ -49,7 +49,7 @@ class DetailProduct extends React.Component {
   };
 
   shareHandler = () => {
-    let url = `https://srasmedicines.com/products/${this.props.id}`;
+    let url = `https://srasmedicines.com/assets/images/product/${this.props.id}`;
     let title = this.state.product.title;
     if (navigator.share) {
       navigator.share({
@@ -174,13 +174,13 @@ class DetailProduct extends React.Component {
                         key={index}
                         onClick={() =>
                           this.imageHandler(
-                            `https://srasmedicines.com/product/${this.state.product.images[image].image}`
+                            `https://srasmedicines.com/assets/images/product/${this.state.product.images[image].image}`
                           )
                         }
                       >
                         <img
                           key={index}
-                          src={`https://srasmedicines.com/product/${this.state.product.images[image].image}`}
+                          src={`https://srasmedicines.com/assets/images/product/${this.state.product.images[image].image}`}
                           alt={this.state.product.images[image].caption}
                         />
                       </button>
