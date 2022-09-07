@@ -30,7 +30,7 @@ export default class Index extends Component {
               </div>
               <div className="footer-details">
                 <img src={CallIcon} alt="Mobile" />
-                <a href="tel:+918929987739">+91 89299 87739</a>
+                <a href="tel:+919255427922">+91 92554 27922</a>
                 <a href="tel:+918295027922">+91 82950 27922</a>
               </div>
               <div className="footer-details">
