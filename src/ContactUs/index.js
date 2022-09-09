@@ -20,9 +20,9 @@ class ContactUs extends React.Component {
           <h2>Get in touch with us if you have any questions or feedback.</h2>
           <div>
             <h3>
-              Call Us: 
-              <a href="tel:+918929987739">+91 89299 87739</a>
+              Call Us:
               <a href="tel:+919255427922">+91 92554 27922</a>
+              <a href="tel:+918295027922">+91 82950 27922</a>
             </h3>
           </div>
           <div>
