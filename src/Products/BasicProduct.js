@@ -13,6 +13,8 @@ const BasicProduct = (props) => {
         <img
           src={`https://srasmedicines.com/assets/images/product/${props.images[0].image}`}
           alt={props.images[0].caption}
+          height="250px"
+          width="250px"
         />
         {descriptionArray.length > 0 ? <p>{descriptionArray[0]}</p> : null}
         <h2>{props.title}</h2>
