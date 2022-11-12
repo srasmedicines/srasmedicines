@@ -213,9 +213,9 @@
       {
         "id": 126,
         "scale": "mg",
-        "name": "Coriandrum sativum",
+        "name": "Dhaniya (Coriandrum sativum)",
         "description": "null",
-        "amount": 500,
+        "amount": 50,
         "amount_scale": "2",
         "image": null,
         "product": 13
@@ -223,9 +223,9 @@
       {
         "id": 127,
         "scale": "mg",
-        "name": "Cuminum Cyminum",
+        "name": "Jeera (Cuminum Cyminum)",
         "description": "null",
-        "amount": 500,
+        "amount": 50,
         "amount_scale": "2",
         "image": null,
         "product": 13
@@ -233,9 +233,9 @@
       {
         "id": 128,
         "scale": "mg",
-        "name": "Plumbago Zeylanca",
+        "name": "Chitrak Mul (Plumbago Zeylanca)",
         "description": "null",
-        "amount": 500,
+        "amount": 50,
         "amount_scale": "2",
         "image": null,
         "product": 13
@@ -243,9 +243,9 @@
       {
         "id": 129,
         "scale": "mg",
-        "name": "Tinospora Cordifolia",
+        "name": "Giloy (Tinospora Cordifolia)",
         "description": "null",
-        "amount": 500,
+        "amount": 50,
         "amount_scale": "2",
         "image": null,
         "product": 13
@@ -253,9 +253,9 @@
       {
         "id": 130,
         "scale": "mg",
-        "name": "Solanum Nigrum",
+        "name": "Makoy (Solanum Nigrum)",
         "description": "null",
-        "amount": 500,
+        "amount": 50,
         "amount_scale": "2",
         "image": null,
         "product": 13
@@ -263,9 +263,9 @@
       {
         "id": 131,
         "scale": "mg",
-        "name": "Cinnamomum Zeylanicum",
+        "name": "Dalchini (Cinnamomum Zeylanicum)",
         "description": "null",
-        "amount": 500,
+        "amount": 50,
         "amount_scale": "2",
         "image": null,
         "product": 13
@@ -273,56 +273,36 @@
     ],
     "detail": {
       "scale": "g",
-      "price": "450.00",
+      "price": "190.00",
       "weight": 0,
       "weight_scale": "3",
-      "quantity": "50 ml",
-      "composition": "Each 10 ml contains;Each 1 ml Contains,Proteins 14%,Fats 16%,Carbohydrates 22%,Minerals 5%,Calcium 0.63%,Phosphorus 0.40, Folic Acid 30%",
+      "quantity": "40 tablets",
+      "composition": "Each tablet contains:",
       "warning": "null",
-      "p_type": "Drops"
+      "p_type": "Tablets"
     },
     "images": [
       {
         "id": 39,
-        "image": "boonDrops1.jpg",
-        "caption": "Boon Drops"
+        "image": "BoonTab.jpg",
+        "caption": "Boon Tablets"
       },
       {
         "id": 40,
-        "image": "Boon.jpg",
-        "caption": "Boon Drops"
+        "image": "BoonTab2.jpg",
+        "caption": "Boon Tablets"
       },
       {
         "id": 41,
-        "image": "Boon2.jpg",
-        "caption": "Boon Drops"
-      },
-      {
-        "id": 42,
-        "image": "Boon3.jpg",
-        "caption": "Boon Drops"
-      },
-      {
-        "id": 43,
-        "image": "Boon4.jpg",
-        "caption": "Boon Drops"
-      },
-      {
-        "id": 44,
-        "image": "Boon5.jpg",
-        "caption": "Boon Drops"
-      },
-      {
-        "id": 95,
-        "image": "Boon6.jpg",
-        "caption": "Boon Drops"
+        "image": "BoonTab3.jpg",
+        "caption": "Boon Tablets"
       }
     ],
-    "title": "BOON",
-    "headline": "Useful in Gastric Problem",
-    "description": "Gastic Problems;null;null;Cures Morning Sickness during Pregnancy,Rich Source of Folic Acid,Cures UTI,Useful in Anorexia",
+    "title": "BOON TABLETS",
+    "headline": "Useful in colic hyperacidity indigestion",
+    "description": "colic hyperacidity indigestion;null;null;Cures Morning Sickness during Pregnancy,Rich Source of Folic Acid,Cures UTI,Useful in Anorexia",
     "indication": "Gastric Problem,Vomiting,Indigestion,Abdominal Colic,Gastritis",
-    "usage": "10-15 Drops twice a day",
+    "usage": "1-2 tablets a day or as directed by the physician",
     "active": true
   },
   {
@@ -1754,9 +1734,39 @@
       {
         "id": 187,
         "scale": "mg",
-        "name": "Amrita",
+        "name": "Shwet Parpati (Kshar Parpati)",
         "description": "null",
-        "amount": 200,
+        "amount": 125,
+        "amount_scale": "2",
+        "image": null,
+        "product": 18
+      },
+      {
+        "id": 1086,
+        "scale": "mg",
+        "name": "Yavaksaar (Hordeum vulgara)",
+        "description": "null",
+        "amount": 125,
+        "amount_scale": "2",
+        "image": null,
+        "product": 18
+      },
+      {
+        "id": 1085,
+        "scale": "mg",
+        "name": "Sarjikhar (Haloxylon stocksli)",
+        "description": "null",
+        "amount": 125,
+        "amount_scale": "2",
+        "image": null,
+        "product": 18
+      },
+      {
+        "id": 1084,
+        "scale": "mg",
+        "name": "Hazralyood Bhasham (AFI)",
+        "description": "null",
+        "amount": 125,
         "amount_scale": "2",
         "image": null,
         "product": 18
@@ -1764,26 +1774,36 @@
     ],
     "detail": {
       "scale": "g",
-      "price": "150.00",
+      "price": "190.00",
       "weight": 0,
       "weight_scale": "3",
-      "quantity": "200 ml",
-      "composition": "Each 10 ml contains",
+      "quantity": "40 tablets",
+      "composition": "Each tablet contains",
       "warning": "null",
-      "p_type": "Tonic"
+      "p_type": "Tablet"
     },
     "images": [
       {
         "id": 73,
-        "image": "productDefault.png",
-        "caption": "Reliver"
+        "image": "neer.png",
+        "caption": "NEER"
+      },
+      {
+        "id": 173,
+        "image": "neer2.png",
+        "caption": "NEER"
+      },
+      {
+        "id": 273,
+        "image": "neer3.png",
+        "caption": "NEER"
       }
     ],
-    "title": "RELIVER",
-    "headline": "Liver Tonic",
-    "description": "Liver & Kidney;null;null;Useful in Anorexia (Aruchi),Useful in  Jaundice (Kamla),Useful in  Liver Enlargement",
+    "title": "NEER",
+    "headline": "Useful in U.T.I & Renal Stone",
+    "description": "U.T.I & Renal Stone;null;null;Useful in Anorexia (Aruchi),Useful in  Jaundice (Kamla),Useful in  Liver Enlargement",
     "indication": "Jaundice (Kamla), Anorexia (Aruchi), Liver Enlargement",
-    "usage": "5-10 ml twice a day",
+    "usage": "As directed by the Physician",
     "active": true
   },
   {
@@ -2147,6 +2167,116 @@
     "usage": "1 or 2 tablets twice a day",
     "active": true
   },
+
+  {
+    "id": 5,
+    "ingredients": [
+      {
+        "id": 1236,
+        "scale": "mg",
+        "name": "Each Tablet contains extract of:",
+        "description": "null",
+        "amount": 0,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 1237,
+        "scale": "mg",
+        "name": "Kaunch Beej",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 1238,
+        "scale": "mg",
+        "name": "Safed Musli",
+        "description": "null",
+        "amount": 100,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 1239,
+        "scale": "mg",
+        "name": "Talamkhana",
+        "description": "null",
+        "amount": 80,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 1240,
+        "scale": "mg",
+        "name": "Sataver",
+        "description": "null",
+        "amount": 80,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 1241,
+        "scale": "mg",
+        "name": "Ashwagandha",
+        "description": "null",
+        "amount": 80,
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      },
+      {
+        "id": 1242,
+        "scale": "q.s",
+        "name": "Excpients",
+        "description": "null",
+        "amount": "q.s",
+        "amount_scale": "2",
+        "image": null,
+        "product": 5
+      }
+    ],
+    "detail": {
+      "scale": "g",
+      "price": "230.00",
+      "weight": 0,
+      "weight_scale": "3",
+      "quantity": " 40 tablets",
+      "composition": "null",
+      "warning": "null",
+      "p_type": "Tablet"
+    },
+    "images": [
+      {
+        "id": 179,
+        "image": "updated-sperm-forte.jpg",
+        "caption": "Sperm Forte Tablets"
+      },
+      {
+        "id": 180,
+        "image": "updated-sperm-forte2.jpg",
+        "caption": "Sperm Forte Tablets"
+      },
+      {
+        "id": 181,
+        "image": "updated-sperm-forte3.jpg",
+        "caption": "Sperm Forte Tablets"
+      }
+    ],
+    "title": "SPERM FORTE Tablets",
+    "headline": "Useful for improve sperm efficancy",
+    "description": "improve sperm efficancy;Capsules;null;Improves problem of Premature Ejaculation,Useful in the psychological Impotence,Use in the improving Libido, Improves Quality of Semen",
+    "indication": "Problem of premature ejaculation",
+    "usage": "As directed by the Physician",
+    "active": true
+  },
+
   {
     "id": 7,
     "ingredients": [
@@ -2243,36 +2373,36 @@
     ],
     "detail": {
       "scale": "g",
-      "price": "196.00",
+      "price": "270.00",
       "weight": 0,
       "weight_scale": "3",
-      "quantity": "30 Tablets",
-      "composition": "Each Sugar coated tablet contains",
+      "quantity": "40 Tablets",
+      "composition": "Each tablet contains",
       "warning": "null",
       "p_type": "Tablet"
     },
     "images": [
       {
         "id": 21,
-        "image": "soods.jpg",
-        "caption": "SOODS"
+        "image": "sudha.jpg",
+        "caption": "SUDHA"
       },
       {
         "id": 22,
-        "image": "soods2.jpg",
-        "caption": "SOODS"
+        "image": "sudha2.jpg",
+        "caption": "SUDHA"
       },
       {
         "id": 23,
-        "image": "soods3.jpg",
-        "caption": "SOODS"
+        "image": "sudha3.jpg",
+        "caption": "SUDHA"
       }
     ],
-    "title": "SOODS",
-    "headline": "Useful in Polyuria, Nocturia & Bedwetting",
+    "title": "SUDHA",
+    "headline": "Useful in Bedwetting & Polyuria",
     "description": "Bedwetting & Polyuria;null;null;Useful in Polyuria,Useful in Nocturia, Useful in Bedwetting",
     "indication": "Diabetes Pregnancy & Prostate Problems,Interstitial Cystitis,Overactive bladder syndrome,Stroke & other Nurological Diseases, Urinary Incontinence,Bladder Cancer,Bladder Dysfunction,After Radiation Therapy,Bed Wetting,Structural abnormality in the organs muscles or diseases of nervous system,Polyuria due to sickle cell anemia",
-    "usage": "2 Tablets twice a day with Honey",
+    "usage": "1 or 2 Tablets a day or as directed by the Physician",
     "active": true
   },
   {
@@ -2964,313 +3094,6 @@
     "usage": "5-10 ml twice a day",
     "active": true
   },
-  {
-    "id": 21,
-    "ingredients": [
-      {
-        "id": 222,
-        "scale": "mg",
-        "name": "Adhatoda Vasica",
-        "description": "null",
-        "amount": 400,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 223,
-        "scale": "mg",
-        "name": "Glycyrrhiza Glabra",
-        "description": "null",
-        "amount": 250,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 224,
-        "scale": "mg",
-        "name": "Cordia Myxa Roxb",
-        "description": "null",
-        "amount": 250,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 225,
-        "scale": "mg",
-        "name": "Clerodendrom Scrratum",
-        "description": "null",
-        "amount": 250,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 226,
-        "scale": "mg",
-        "name": "Pistacia Integerrima",
-        "description": "null",
-        "amount": 250,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 227,
-        "scale": "mg",
-        "name": "Ocimum Santacum",
-        "description": "null",
-        "amount": 200,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 228,
-        "scale": "mg",
-        "name": "Ephedra Geradiana",
-        "description": "null",
-        "amount": 250,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 229,
-        "scale": "mg",
-        "name": "Piper longum",
-        "description": "null",
-        "amount": 100,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 230,
-        "scale": "mg",
-        "name": "Foeniculum Vulgare",
-        "description": "null",
-        "amount": 200,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 231,
-        "scale": "mg",
-        "name": "Lipidum Sativum",
-        "description": "null",
-        "amount": 100,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 232,
-        "scale": "mg",
-        "name": "Fagoina Arabica",
-        "description": "null",
-        "amount": 200,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 233,
-        "scale": "mg",
-        "name": "Onasma Bracteutum",
-        "description": "null",
-        "amount": 400,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      },
-      {
-        "id": 234,
-        "scale": "mg",
-        "name": "Solanumxanthocapum",
-        "description": "null",
-        "amount": 400,
-        "amount_scale": "2",
-        "image": null,
-        "product": 21
-      }
-    ],
-    "detail": {
-      "scale": "g",
-      "price": "180.00",
-      "weight": 0,
-      "weight_scale": "3",
-      "quantity": "100 ml",
-      "composition": "Each 10 ml contains",
-      "warning": "null",
-      "p_type": "Syrup"
-    },
-    "images": [
-      {
-        "id": 69,
-        "image": "Unikoff.jpg",
-        "caption": "Unikoff Syrup"
-      },
-      {
-        "id": 70,
-        "image": "Unikoff2.jpg",
-        "caption": "Unikoff Syrup"
-      },
-      {
-        "id": 71,
-        "image": "Unikoff3.jpg",
-        "caption": "Unikoff Syrup"
-      }
-    ],
-    "title": "UNIKOFF",
-    "headline": "Useful in Chronic Cold",
-    "description": "Chest & Alergic Problem;null;null;Useful in Chronic Cold",
-    "indication": "Rhinitis,Acute Bronchitis,Chest Infection",
-    "usage": "10-15 Drops & 5-10ml twice a day with hot water",
-    "active": true
-  },
-  {
-    "id": 11,
-    "ingredients": [
-      {
-        "id": 101,
-        "scale": "mg",
-        "name": "Kapoor",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 102,
-        "scale": "mg",
-        "name": "Javatri",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 103,
-        "scale": "mg",
-        "name": "Jaiphal",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 104,
-        "scale": "mg",
-        "name": "Vidari Beej",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 105,
-        "scale": "mg",
-        "name": "Vidari Kand",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 106,
-        "scale": "mg",
-        "name": "Shatavar",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 107,
-        "scale": "mg",
-        "name": "Nagbala",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 108,
-        "scale": "mg",
-        "name": "Atibala",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 109,
-        "scale": "mg",
-        "name": "Gokshru",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      },
-      {
-        "id": 110,
-        "scale": "mg",
-        "name": "Hijjal",
-        "description": "null",
-        "amount": -1,
-        "amount_scale": "2",
-        "image": null,
-        "product": 11
-      }
-    ],
-    "detail": {
-      "scale": "g",
-      "price": "180.00",
-      "weight": 0,
-      "weight_scale": "3",
-      "quantity": "30 Tablets",
-      "composition": "Each Tablet Contains",
-      "warning": "null",
-      "p_type": "Tablet"
-    },
-    "images": [
-      {
-        "id": 36,
-        "image": "VinCold.jpg",
-        "caption": "Vin Cold"
-      },
-      {
-        "id": 37,
-        "image": "VinCold2.jpg",
-        "caption": "Vin Cold"
-      },
-      {
-        "id": 38,
-        "image": "VinCold3.jpg",
-        "caption": "Vin Cold"
-      }
-    ],
-    "title": "VIN-COLD",
-    "headline": "Useful in Chronic Cold",
-    "description": "Chronic Cold;null;null;Useful in Chronic Cold,Useful in Chest Allergy",
-    "indication": "Chronic Cold,Chest Allergy",
-    "usage": "2 Tablets twice a day",
-    "active": true
-  },
-
   {
     "id": 10,
     "ingredients": [
