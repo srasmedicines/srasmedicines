@@ -21,8 +21,7 @@ class ContactUs extends React.Component {
           <div>
             <h3>
               Call Us:
-              <a href="tel:+919255427922">+91 92554 27922</a>
-              <a href="tel:+918295027922">+91 82950 27922</a>
+              <a href="tel:+919255427911">+91 92554 27911</a>
             </h3>
           </div>
           <div>
@@ -32,7 +31,7 @@ class ContactUs extends React.Component {
             <h3>
               Please allow upto 24 hours for a response and include your contact
               information so we may respond back to you. Email Us:
-              srasneeru@gmail.com
+              contact@srasmedicines.com
             </h3>
           </div>
         </div>
