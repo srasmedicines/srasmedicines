@@ -204,7 +204,7 @@ class DetailProduct extends React.Component {
                     Call us at :
                     <div className="footer-details">
                       <img src={CallIcon} alt="Mobile" />
-                      <a href="tel:+919255427922">+91 92554 27922</a>
+                      <a href="tel:+919255427911">+91 92554 27911</a>
                     </div>
                   </p>
                 </div>
