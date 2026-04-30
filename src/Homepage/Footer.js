@@ -29,12 +29,11 @@ export default class Index extends Component {
               <h2>Contact Us</h2>
               <div className="footer-details">
                 <img src={MailIcon} alt="Mail" />
-                <a href="mailto:srasneeru@gmail.com">srasneeru@gmail.com</a>
+                <a href="mailto:srasneeru@gmail.com">contact@srasmedicines.com</a>
               </div>
               <div className="footer-details">
                 <img src={CallIcon} alt="Mobile" />
-                <a href="tel:+919255427922">+91 92554 27922</a>
-                <a href="tel:+918295027922">+91 82950 27922</a>
+                <a href="tel:+919255427911">+91 92554 27911</a>
               </div>
               <div className="footer-details">
                 <img src={OfficeIcon} alt="Address" />
@@ -44,7 +43,7 @@ export default class Index extends Component {
                   <p>Follow us on Social media</p>
                   <div>
                     <a href="https://www.facebook.com/profile.php?id=100084505491455" target="_blank"><img src={facebookIcon} alt="facebook" /></a>
-                    <a href="https://www.instagram.com/srasmedicine01/" target="_blank"><img src={instagramIcon} alt="instagram" /></a>
+                    <a href="https://www.instagram.com/srasmedicines/" target="_blank"><img src={instagramIcon} alt="instagram" /></a>
                     <a href="https://www.youtube.com/channel/UCLMC2jceh_Dq2mfF3AN02Ag/featured" target="_blank"><img src={youtubeIcon} alt="youtube" /></a>
                   </div>
               </div>
